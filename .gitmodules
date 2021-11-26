@@ -1,0 +1,4 @@
+[submodule "socialGraphsBlog/public"]
+	path = socialGraphsBlog/public
+	url = https://github.com/elisealm/socialgraphs.github.io.git
+	branch = main
