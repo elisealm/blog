@@ -1,4 +1,4 @@
-baseURL = 'https://socialgraphs.github.io/'
+baseURL = 'https://elisealm.github.io/socialgraphs.github.io/'
 languageCode = 'en-us'
 title = 'The Social Graphs Blog'
 theme = "tale"
